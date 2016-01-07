@@ -1,1 +1,8 @@
-tttt
+ttttsfasfasfaspppppgit remote add origin https://github.com/freyachen1/learngit.gi
+
+
+git remote add origin https://github.com/freyachen1/learngit.git
+
+
+git remote add origin https://github.com/freyachen1/learngit.git
+t
